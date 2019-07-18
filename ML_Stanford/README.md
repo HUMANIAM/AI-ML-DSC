@@ -1,5 +1,5 @@
 # Introduction to machine learning
-> This course is my entry point to ML world from technical view. I gave me intuitions about > machine learning algorithms
+> This course is my entry point to ML world from technical view. It gave me intuitions about machine learning algorithms
 > [Machine learning Stanford](https://www.coursera.org/learn/machine-learning/)!
 
 ## content
