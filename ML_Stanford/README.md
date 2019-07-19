@@ -7,6 +7,7 @@
 - supervised learning algorithms (labeled data)
 	- linear regression
 	- logistic regression
+	- support vector machine algorithm
 - introduction to neural network
 - backpropagation algorithm
 - using NN to classify hand-written characters
@@ -14,5 +15,7 @@
 - advices in applying machine learning algorithms
 - high bias and high variance leaning algorithms
 - machine learning system design
-- support vector machine algorithm
-
+- unsupervised learning algorithms (unlabeled data)
+	- K-MEAN algorithm
+- dimensionality reduction
+- Principal analysis component
