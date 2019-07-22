@@ -19,3 +19,5 @@
 	- K-MEAN algorithm
 - dimensionality reduction
 - Principal analysis component
+- Anomaly detection
+- recommender system (collaborative filtering algorithm)
