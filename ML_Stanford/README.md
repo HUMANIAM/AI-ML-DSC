@@ -21,3 +21,9 @@
 - Principal analysis component
 - Anomaly detection
 - recommender system (collaborative filtering algorithm)
+- machine learning in large scale
+- stochastic gradient descent and min_batch and batch gradient descent algorithm
+- artificial data synthesis
+- online learning
+- photo OCR with machine learning
+- Ceiling analyis 
