@@ -13,3 +13,4 @@
 
 - Data Science
 	- [applied Data science specialization](https://github.com/HUMANIAM/AI-ML-DSC/tree/master/Applied_Data_Science_specialization)
+		- Introduction to Data Science in Python
